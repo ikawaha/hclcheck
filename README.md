@@ -3,7 +3,7 @@
 hclcheck validates `.hcl` files recursively.
 
 ```
-20:42 $ hclcheck --help
+$ hclcheck --help
 Usage of hclcheck:
   -v	verbose
 ```  
